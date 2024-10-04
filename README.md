@@ -10,5 +10,5 @@ format and updates automatically every second.
 * Customizable: The clock design is easily customizable to fit your desired color scheme or styling preferences.
 
 # Demo
-You can check out the live demo of the Digital Clock here: Live Demo ().
+You can check out the live demo of the Digital Clock here: Live Demo (https://glozog.github.io/digital-clock/).
 
